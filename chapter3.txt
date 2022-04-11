@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 The last primrose yellow rays of the sinking sun were retiring behind a set of irregularly shaped cumulus clouds leaving a splendind coral pink shade in the horizon. 
 <<<<<<< HEAD
 The last chirppings of the birds could be heard crystal clearly as they flew hither an thither from tree to tree and back to their nests. 
@@ -5,3 +6,6 @@ It was an evening of its own, a splendid one guys!
 =======
 The last chirppings of the birds could be heard crystal clearly as they flew hither an thither from tree to tree and back to their nests. It was the time to take the cattle home. It was sunset time.
 >>>>>>> novel1
+=======
+It was the spring of hope. It was the viater of despair and narrations.
+>>>>>>> bed4d656ae521eab9688c0d07a5b4bfdeffbefae

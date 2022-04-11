@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 The heavy powered luxurious and petrol guzzling vehicles snakes its way into the vast cathedral compound.
 Vehicles of all shapes and colors graced the occassion. Various dignitaries were present.
 =======
 The heavy powered luxurious and petrol guzzling vehicles snakes its way into the vast cathedral compound. Cool air music made the air pure and holy.
 >>>>>>> novel1
+=======
+It was the best of times. It was the worst of times and moments.
+>>>>>>> bed4d656ae521eab9688c0d07a5b4bfdeffbefae
